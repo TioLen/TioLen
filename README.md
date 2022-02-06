@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align = "center"><br>
-  <a href="tiolen.artstation.com" target="_blank"> <img width=96 src="https://www.vippng.com/png/full/231-2319377_art-station-icon-png.png" target="_blank"></a>
+  <a href="https://tiolen.artstation.com" target="_blank"> <img width=96 src="https://www.vippng.com/png/full/231-2319377_art-station-icon-png.png" target="_blank"></a>
 </div>
