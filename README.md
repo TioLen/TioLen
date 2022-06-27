@@ -8,6 +8,7 @@
 Here are some ideas to get you started:
 -->
 -----------
+
 - 🔭 Estou atualmente trabalhando nuns projetos bem bacanas!
 - 🌱 Estudando Modelagem 3D, brincando um pouco com C# pela Unity, e aprendendo um pouco de Markdown escrevendo isso
 - ✔ Inglês e Espanhol intermediário
@@ -16,7 +17,9 @@ Here are some ideas to get you started:
 -----------
 
 <p align = "center">Meus jogos <a href=https://itch.io/profile/tiolen target="_blank">aqui</a>!</p>
+
 -----------
+
 <p align = "center">Sou um dos desenvolvedores deste pequeno e promissor projeto de faculdade, o qual pretendemos levá-lo à frente, o<br><b><i>E-Sharp: Natural Rule</i></b>.</br></p>
 
 ##### <p align = "center">Disponível no [itch.io](https://yasmin-miho.itch.io/esharp) e [neste repositório](https://github.com/Henrique061/E-Sharp_Natural-Rule/) para fins de análise!
