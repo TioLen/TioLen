@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 -----------
 - 🔭 Estou atualmente trabalhando nuns projetos bem bacanas!
-- 🌱 Estudando Java, brincando um pouco com C# pela Unity, e aprendendo um pouco de Markdown escrevendo isso
+- 🌱 Estudando Modelagem 3D, brincando um pouco com C# pela Unity, e aprendendo um pouco de Markdown escrevendo isso
 - ✔ Inglês e Espanhol intermediário
 - 📫 Contato: tiolen@protonmail.com
 
