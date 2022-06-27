@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<p align = "center">Jogue meus jogos <a href=https://itch.io/profile/tiolen target="_blank">aqui</a>!</p>
+<p align = "center">Jogue meus jogos <a href="https://itch.io/profile/tiolen" target="_blank">aqui</a>!</p>
 
 -----------
 
