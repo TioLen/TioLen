@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 -----------
 
-
+<p align = "center">Meus jogos [aqui](https://itch.io/profile/tiolen)</p>
+-----------
 <p align = "center">Sou um dos desenvolvedores deste pequeno e promissor projeto de faculdade, o qual pretendemos levá-lo à frente, o<br><b><i>E-Sharp: Natural Rule</i></b>.</br></p>
 
 ##### <p align = "center">Disponível no [itch.io](https://yasmin-miho.itch.io/esharp) e [neste repositório](https://github.com/Henrique061/E-Sharp_Natural-Rule/) para fins de análise!
