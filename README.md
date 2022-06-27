@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ✔ Inglês e Espanhol intermediário
 - 📫 Contato: tiolen@protonmail.com
 
------------
 
-<p align = "center">Meus jogos <a href=https://itch.io/profile/tiolen target="_blank">aqui</a>!</p>
+
+<p align = "center">Jogue meus jogos <a href=https://itch.io/profile/tiolen target="_blank">aqui</a>!</p>
 
 -----------
 
