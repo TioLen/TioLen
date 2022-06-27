@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <p align = "center">Sou um dos desenvolvedores deste pequeno e promissor projeto de faculdade, o qual pretendemos levá-lo à frente, o<br><b><i>E-Sharp: Natural Rule</i></b>.</br></p>
 
-##### <p align = "center">Provisoriamente por motivos específicos, você encontrará os arquivos brutos do projeto da Unity deste game [neste repositório](https://github.com/Henrique061/E-Sharp_Natural-Rule/) para fins de análise, e o executável _(.exe)_ jogável com suas dependências separadamente [aqui](https://www.mediafire.com/file/k7fdrzvix07n76t/E-Sharp_-_Natural_Rule_%2528Demo%2529.zip/file). Por favor, dê uma olhada nos créditos do jogo, e se desejar entre em contato!</p>
+##### <p align = "center">Disponível no [itch.io](https://yasmin-miho.itch.io/esharp) e [neste repositório](https://github.com/Henrique061/E-Sharp_Natural-Rule/) para fins de análise!
+
 
 <!--##### <p align = "center"> Devs:</p> -->
 
