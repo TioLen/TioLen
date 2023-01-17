@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 <!-- Regiao dos Cards ///////////// <div style = "display: inline_block">
--->
+
 <div align = "center">
   <a href="https://github.com/TioLen/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioLen&show_icons=true&theme=merko" />
@@ -69,6 +69,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioLen&layout=compact&show_icons=true&theme=highcontrast" />
   </a>
 </div>
+
+-->
 
 ---------
 <!-- programming languages -->
