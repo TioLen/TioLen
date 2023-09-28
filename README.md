@@ -12,28 +12,25 @@ Here are some ideas to get you started:
 -----------
 
 - 🔭 Estou atualmente trabalhando nuns projetos bem bacanas!
-- 🌱 Estudando Modelagem 3D, brincando um pouco com C# pela Unity, e aprendendo um pouco de Markdown escrevendo isso
+- 🌱 Estudando Modelagem 3D, e suas tarefas relacionadas
 - ✔ Inglês e Espanhol intermediário
-- 📫 Contato: tiolen@protonmail.com
+- 📫 Contato: silvagabr57@gmail.com
 
 
 
 <p align = "center">Jogue meus jogos <a href="https://itch.io/profile/tiolen" target="_blank">aqui</a>!</p>
 
 -----------
-
-<p align = "center">Sou um dos desenvolvedores deste pequeno e promissor projeto de faculdade, o qual pretendemos levá-lo à frente, o<br><b><i>E-Sharp: Natural Rule</i></b>.</br></p>
-
-##### <p align = "center">Disponível no [itch.io](https://yasmin-miho.itch.io/esharp) e [neste repositório](https://github.com/Henrique061/E-Sharp_Natural-Rule/) para fins de análise!
-
-
-<!--##### <p align = "center"> Devs:</p> -->
-
-##### <p align = "center">Gabriel - [@TioLen](https://github.com/TioLen) | Henrique - [@Henrique061](https://github.com/Henrique061) | Yasmin - [@yayamiho](https://github.com/yayamiho)</p>
-
+<p align = "center"><i>[ ctrl + click para saber mais! ]</i></p>
 
 <p align="center">
- <img width="32" src="https://img.itch.zone/aW1nLzYwNzUxNjgucG5n/32x32%23/13d0d0.png">
+  <a href="https://yasmin-miho.itch.io/esharp" target="_blank"> <img width="32" alt = "E-Sharp: Natural Rule" src="https://img.itch.zone/aW1nLzYwNzUxNjgucG5n/32x32%23/13d0d0.png"></a>
+ <a href="https://henriqueassis.itch.io/cursed-sword" target="_blank"> <img width="32" src="https://ugc.production.linktr.ee/AVq0wxqVQvi6QvjfYRNz_cursed_logo.png"></a>
+ <a href="https://yasmin-miho.itch.io/boggart" target="_blank"> <img width="32" src="https://ugc.production.linktr.ee/TZrRVGjXT4amPULL8WV9_undefined"></a>
+ <a href="https://henriqueassis.itch.io/error-120" target="_blank"> <img width="32" style="object-fit: scale-down;" src="https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png"></a>
+ 
+ 
+ 
 </p>
 
 <!--
