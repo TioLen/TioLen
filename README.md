@@ -1,11 +1,13 @@
 ### Olá, eu sou o Gabriel! 👋
-#### <i>(Também conhecido por alguns como TioLen)</i>
+
 
 <!--
 
 **TioLen/TioLen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+#### <i>(Também conhecido por alguns como TioLen)</i>
 -->
 -----------
 
