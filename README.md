@@ -24,12 +24,15 @@ Here are some ideas to get you started:
 -----------
 <p align = "center"><i>[ ctrl + click para saber mais! ]</i></p>
 
+
 <p align="center">
-  <a href="https://yasmin-miho.itch.io/esharp" target="_blank"> <img width="32" alt = "E-Sharp: Natural Rule" src="https://img.itch.zone/aW1nLzYwNzUxNjgucG5n/32x32%23/13d0d0.png"></a>
- <a href="https://henriqueassis.itch.io/cursed-sword" target="_blank"> <img width="32" src="https://ugc.production.linktr.ee/AVq0wxqVQvi6QvjfYRNz_cursed_logo.png"></a>
- <a href="https://yasmin-miho.itch.io/boggart" target="_blank"> <img width="32" src="https://ugc.production.linktr.ee/TZrRVGjXT4amPULL8WV9_undefined"></a>
- <a href="https://henriqueassis.itch.io/error-120" target="_blank"> <img width="32" style="object-fit: scale-down;" src="https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png"></a>
- 
+  <a href="https://yasmin-miho.itch.io/esharp" target="_blank"> <img width="64" alt = "E-Sharp: Natural Rule" src="https://ugc.production.linktr.ee/TsbKOWXQWy1puLLlmlFr_Icon.png"></a>
+  <a href="https://henriqueassis.itch.io/cursed-sword" target="_blank"> <img width="64" src="https://ugc.production.linktr.ee/AVq0wxqVQvi6QvjfYRNz_cursed_logo.png?io=true&size=thumbnail-stack"></a>
+  <a href="https://yasmin-miho.itch.io/boggart" target="_blank"> <img width="64" src="https://ugc.production.linktr.ee/TZrRVGjXT4amPULL8WV9_undefined"></a>
+  <a href="https://henriqueassis.itch.io/error-120" target="_blank"> <img width="64" style="object-fit: scale-down;" src="https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png"></a>
+  
+<!-- https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png
+ -->
  
  
 </p>
@@ -69,15 +72,23 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioLen&layout=compact&show_icons=true&theme=highcontrast" />
   </a>
 </div>
-
-
-
 ---------
 -->
 <!-- programming languages -->
 <div align = "center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+  <!-- JAVA --> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" target="_blank" height=64> 
+  <!-- C#   --> <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" target="_blank" height=64>
+  <!--Python--> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" target="_blank" height=64>
+  <!--Unity --> <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" target="_blank" height=64>
+  <!--Unreal--> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" target="_blank" height=64>
+  <!---->
+  <!-- html --> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" target="_blank" height=64>
+  <!-- css  --> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" target="_blank" height=64>
+  <!-- js   --> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" target="_blank" height=64>
+  <!-- fgm  --> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" target="_blank" height=64>
+  <!--vscode--> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" target="_blank" height=64>
+  
+  
 </div>
 
 ---------
