@@ -1,105 +1,106 @@
-### Olá, eu sou o Gabriel! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-<!--
+<p align="left">My name is Gabriel, and I'm a professor at FIAP and a developer and 3D artist from Brazil. I am a curious person who enjoys expanding my knowledge and keep learning.</p>
 
-**TioLen/TioLen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-#### <i>(Também conhecido por alguns como TioLen)</i>
+###
+
+<p align="left">
+  ✨ I started my journey in 2020, studying for a Bachelor's degree in Game Development at Senac São Paulo.<br>
+  📚 I'm currently studying Full Stack Development at FIAP.<br>🎯 Goals: Improve my skills, share them with others, and help people find solutions to their problems.<br>
+  🎲 Fun fact: Teaching wasn’t something I was interested in — until I started doing it and discovered a real talent for it. I also enjoy working on both solo and team technical projects, especially because they give me opportunities to teach.</p>
+
+###
+
+<kbd>
+<div style="align:center; width:100%; height:128px; overflow: hidden;">
+  <img src="https://drive.usercontent.google.com/download?id=1K261_e8YfSYsdnG6X_jViU7Enb2vQLjJ" alt="Viking helmet render" >
+</div>
+</kbd>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="blender logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="38" alt="maya logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="38" alt="unity logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="38" alt="godot logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="googlecloud logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="38" alt="fedora logo"  />
+</div>
+
+<!-- Let's setup it later ;)
+###
+
+<img src="https://raw.githubusercontent.com/tiolen/tiolen/output/snake.svg" alt="Snake animation" />
+
+###
 -->
------------
 
-- 🔭 Estou atualmente trabalhando nuns projetos bem bacanas!
-- 🌱 Estudando Modelagem 3D, e suas tarefas relacionadas
-- ✔ Inglês e Espanhol intermediário
-- 📫 Contato: silvagabr57@gmail.com
-- 🧧 <a href="https://itch.io/profile/tiolen" target="_blank">TioLen | itch.io</a>
+###
 
+<h2 align="left">My projects</h2>
 
-
-<p align = "center">Jogue meus jogos <a href="https://itch.io/profile/tiolen" target="_blank">aqui</a>!</p>
-
------------
-<p align = "center"><i>[ ctrl + click para saber mais! ]</i></p>
-
-
-<p align="center">
-  <a href="https://yasmin-miho.itch.io/esharp" target="_blank"> <img width="64" alt = "E-Sharp: Natural Rule" src="https://ugc.production.linktr.ee/TsbKOWXQWy1puLLlmlFr_Icon.png"></a>
-  <a href="https://henriqueassis.itch.io/cursed-sword" target="_blank"> <img width="64" src="https://ugc.production.linktr.ee/AVq0wxqVQvi6QvjfYRNz_cursed_logo.png?io=true&size=thumbnail-stack"></a>
-  <a href="https://yasmin-miho.itch.io/boggart" target="_blank"> <img width="64" src="https://ugc.production.linktr.ee/TZrRVGjXT4amPULL8WV9_undefined"></a>
-  <a href="https://henriqueassis.itch.io/error-120" target="_blank"> <img width="64" style="object-fit: scale-down;" src="https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png"></a>
-  
-<!-- https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png
- -->
- 
- 
+###
+<!-- some recent projects -->
+<p align="left">
+  <kbd alt="a"><a href="" target="_blank"><img width="52" alt="Goddess Journey"src="https://ugc.production.linktr.ee/17bad1d4-8ec9-4b11-8aeb-777999373ebb_favicon.png?io=true&amp;size=thumbnail-stack-v1_0"/></a></kbd>
+  <kbd><a href="https://yasmin-miho.itch.io/esharp" target="_blank"> <img width="52" alt = "E-Sharp: Natural Rule" src="https://ugc.production.linktr.ee/TsbKOWXQWy1puLLlmlFr_Icon.png"></a></kbd>
+  <kbd><a href="https://henriqueassis.itch.io/cursed-sword" target="_blank"> <img width="52" src="https://ugc.production.linktr.ee/AVq0wxqVQvi6QvjfYRNz_cursed_logo.png?io=true&size=thumbnail-stack"></a></kbd>
+  <kbd><a href="https://yasmin-miho.itch.io/boggart" target="_blank"> <img width="52" src="https://ugc.production.linktr.ee/TZrRVGjXT4amPULL8WV9_undefined"></a></kbd>
+  <kbd><a href="https://henriqueassis.itch.io/error-120" target="_blank"> <img width="52" style="object-fit: scale-down;" src="https://ugc.production.linktr.ee/nWEIi6NnRBOkNA76OdLF_p1eRBj.png"></a></kbd>
 </p>
 
-<!--
+<p align="left">Check my game projects at <a href="https://tiolen.itch.io/">tiolen.itch.io</a></p>
 
-<p align="center">
- <img width="32" src="https://img.itch.zone/aW1nLzYwNzUxNjgucG5n/32x32%23/13d0d0.png">
-</p>
+<p align="left">Check my 3D projects at <a href="https://artstation.com/tiolen/">artstation.com/tiolen</a></p>
 
--->
------------
-<!--
-- 🔭 Estou atualmente trabalhando nuns projetos bem bacanas!
-- 🌱 Estudando Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Regiao dos Cards ///////////// <div style = "display: inline_block">
-
-<div align = "center">
-  <a href="https://github.com/TioLen/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioLen&show_icons=true&theme=merko" />
-  </a>
-</div>
-
-<p>
-
-<div align = "center">
-  <a href="https://github.com/TioLen/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioLen&layout=compact&show_icons=true&theme=highcontrast" />
-  </a>
-</div>
----------
--->
-<!-- programming languages -->
-<div align = "center">
-  <!-- JAVA --> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" target="_blank" height=64> 
-  <!-- C#   --> <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" target="_blank" height=64>
-  <!--Python--> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" target="_blank" height=64>
-  <!--Unity --> <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" target="_blank" height=64>
-  <!--Unreal--> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" target="_blank" height=64>
-  <!---->
-  <!-- html --> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" target="_blank" height=64>
-  <!-- css  --> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" target="_blank" height=64>
-  <!-- js   --> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" target="_blank" height=64>
-  <!-- fgm  --> <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" target="_blank" height=64>
-  <!--vscode--> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" target="_blank" height=64>
   
-  
-</div>
 
----------
-<!-- contato -->
-<!-- proton, facebook, linkedin -->
-<div align = "center"><br>
-  <a href="mailto:tiolen@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://facebook.com/gabrielsilva4k" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiolen/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+###
 
-<div align = "center"><br>
-  <a href="https://tiolen.artstation.com" target="_blank"> <img width=96 src="https://www.vippng.com/png/full/231-2319377_art-station-icon-png.png" target="_blank"></a>
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tiolen/" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://tiolen.artstation.com/" style="text-decoration: none;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="40" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/tiolen_/" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+<!--
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+-->
 </div>
