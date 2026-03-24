@@ -16,12 +16,16 @@
   🎲 Fun fact: Teaching wasn’t something I was interested in at first — until I started doing it and discovered a real talent for it.</p>
 
 ###
-
-<kbd>
-<div style="align:center; width:100%; height:128px; overflow: hidden;">
-  <img src="https://drive.usercontent.google.com/download?id=1K261_e8YfSYsdnG6X_jViU7Enb2vQLjJ" alt="Viking helmet render" >
-</div>
-</kbd>
+<dl>
+  <dd>
+    <kbd>
+    <div style="padding-left: 20px;" style="align:center; width:100%; height:128px; overflow: hidden;">
+      <!-- <img src="https://drive.usercontent.google.com/download?id=1K261_e8YfSYsdnG6X_jViU7Enb2vQLjJ" alt="Viking helmet render" /> -->
+      <img src="https://github.com/user-attachments/assets/dc2467df-7f1d-4c88-abbc-129d5c17b49e" alt="[VikingHelmet_Render-ezgif com-optimize]()"/>
+    </div>
+    </kbd>
+  </dd>
+</dl>
 
 ###
 
